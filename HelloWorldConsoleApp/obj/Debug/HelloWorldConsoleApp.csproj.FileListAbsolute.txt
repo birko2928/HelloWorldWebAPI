@@ -1,0 +1,8 @@
+c:\users\nbirko\documents\visual studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+c:\users\nbirko\documents\visual studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+c:\users\nbirko\documents\visual studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+c:\users\nbirko\documents\visual studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+c:\users\nbirko\documents\visual studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
+C:\Users\NBirko\Documents\Visual Studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NBirko\Documents\Visual Studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NBirko\Documents\Visual Studio 2017\Projects\HelloWorldAPI\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojResolveAssemblyReference.cache
